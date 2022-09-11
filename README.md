@@ -6,3 +6,7 @@
 
 # 완성작 배포 링크
 (진행중)
+
+
+### 자료 출처 
+배경 이미지 출처 : [오브블루 작가님 블로그](https://m.blog.naver.com/PostList.naver?blogId=aube_blue)
